@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/face7d18-bc12-4316-ae15-9bdb153faef9)![WarFrame gold](https://github.com/user-attachments/assets/0b0e528e-79de-4fbc-8814-287192cb1177)
+![WarFrame gold](https://github.com/user-attachments/assets/0b0e528e-79de-4fbc-8814-287192cb1177)
 
 # 🎮 Warframe Autofarm Bot
 
